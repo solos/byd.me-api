@@ -34,20 +34,20 @@
   ```
 
 ### bitmap映射关系
-".com"=0
-".net"=1
-".org"=2
-".info"=3
-".name"=4
-".io"=5
-".link"=6
-".click"=7
-".email"=8
-".top"=9
-".pro"=10
-".xyz"=11
-".one"=12
-".app"=13
-".site"=14
-".tech"=15
-".today"=16
+- ".com"=0
+- ".net"=1
+- ".org"=2
+- ".info"=3
+- ".name"=4
+- ".io"=5
+- ".link"=6
+- ".click"=7
+- ".email"=8
+- ".top"=9
+- ".pro"=10
+- ".xyz"=11
+- ".one"=12
+- ".app"=13
+- ".site"=14
+- ".tech"=15
+- ".today"=16
